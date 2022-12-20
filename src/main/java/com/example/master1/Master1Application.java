@@ -16,6 +16,6 @@ public class Master1Application implements ApplicationRunner {
     public void run(ApplicationArguments args) throws Exception {
         //ClassOne classOne;
         ///
-        //
+        ///
     }
 }
